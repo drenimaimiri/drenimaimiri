@@ -25,5 +25,5 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
 ### Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,linux,css,python,figma" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,linux,css,python,figma,bootstrap" alt="Tech Stack Icons" />
 </div>
