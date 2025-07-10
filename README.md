@@ -9,7 +9,7 @@ I am Dreni<br/>
 ![Divider](https://vaxerski.xyz/github/repos1.gif)
 **Muzeu Kombetar i Kosoves** [ f ] A project that i made for J coders Academy. <br/><br/>
 **Alea Furniture** [ f ] A project you can see so many kinds of furniture. <br/><br/>
-**Beauty Beads** [ uf ] A project that i made for made own bussiness. <br/><br/>
+**Beauty Beads** [ f ] A project that i made for made own bussiness. <br/><br/>
 **Digital grade diary** [ f ] A project that you can see my grades.<br/><br/>
 **Vaktia e Ramazanit** [ f ] A project you can see a ramadan calendar<br/><br/>
 *Just to name a few...*<br/>
@@ -25,5 +25,5 @@ Well, I don't have to tell you all about them, but what I can tell you is that I
 ### Tech Stack  
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,linux,css,python,figma,bootstrap" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,linux,css,python,figma,bootstrap,javascript" alt="Tech Stack Icons" />
 </div>
