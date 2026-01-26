@@ -1,7 +1,7 @@
 ![Welcome](https://vaxerski.xyz/github/TopGif.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
-I am Dreni<br/>
+I am Dren Dedinca.I finished Scratch,Html and Css.I am a begginer in JavaScript.<br/>
 <br/>
 
 <br/>
