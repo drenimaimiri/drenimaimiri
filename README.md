@@ -1,4 +1,4 @@
-![Welcome](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fsearch%2Fjust-saying-hi-gifs&psig=AOvVaw0kd-Cbt8grIpF4pHvR8NiH&ust=1770026605102000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKil84mFuJIDFQAAAAAdAAAAABAE)
+![Welcome](https://raw.githubusercontent.com/gist/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif)
 
 ![Divider](https://vaxerski.xyz/github/aboutme2.gif)
 I am Dren Dedinca.I finished Scratch,Html and Css.I am a begginer in JavaScript.<br/>
