@@ -6,7 +6,7 @@ I am Dren Dedinca.I finished Scratch,Html and Css.I am a begginer in JavaScript.
 
 <br/>
 
-![Divider](https://vaxerski.xyz/github/repos1.gif)
+![Divider](https://vaxerski.xyz/github/repos1.gi)
 **Muzeu Kombetar i Kosoves** [ f ] A project that i made for J coders Academy. <br/><br/>
 **Alea Furniture** [ f ] A project you can see so many kinds of furniture. <br/><br/>
 **Beauty Beads** [ f ] A project that i made for made own bussiness. <br/><br/>
